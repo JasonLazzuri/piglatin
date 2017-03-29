@@ -8,7 +8,7 @@ $(document).ready(function(){
     var split = input.split(' ');
     var answer = [];
 
-split - "love" "pigs"
+
 
     for(var i=0;i<split.length;i++){
       for(var j=0;j<split[i].length;j++){
